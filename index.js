@@ -4,7 +4,7 @@ yesBtn.addEventListener('click',function () {
     alert('Feliz día de los inocentes mi compañero de redes 🤣. Por un momento te habias asustado, ya estabas pensando en el meme "Oh genial le gusto a la loca" jajaja')
     alert('Es verdad que tenía algo que confesarte: ...no deberían dejarme sola en el rack del centro civico')
     alert('Reciclando programas de HTML para un mejor uso con Mónica. Si te interesa el código ya sabes 1€ ;)')
-    alert('Ha sido usted hackeado');
+    alert('Ha sido usted hackeado...con buena música');
     location.href = 'https://youtu.be/1P5yyeeYF9o';
 });
 
